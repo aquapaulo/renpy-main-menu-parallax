@@ -8,14 +8,12 @@ add this code to your screens.rpy file, and replace gui.main_menu_background wit
 
 include the "init python code" below as well!
 
-
-
-
+```
 
 init python:
-    import pygame
-    import math
-
+      import pygame
+      import math
+```
 
 
     class TrackCursor(renpy.Displayable):
