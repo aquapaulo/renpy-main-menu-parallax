@@ -1,5 +1,8 @@
 # renpy-main-menu-parallax
- renpy main menu parallax! add this to your screens.rpy file, and replace gui.main_menu_background with as much instances of "add TrackCursor("gui/your images' location here", 20)" as you need for all your layers, then lower the number 20 in each layer the further down you go in your list of layers!
+renpy main menu parallax!
+click on the "raw" button to get the regular text version!
+add this code to your screens.rpy file, and replace gui.main_menu_background with as much instances of "add TrackCursor("gui/your images' location here", 20)" as you need for all your layers, then lower the number 20 in each layer the further down you go in your list of layers!
+include the "init python code" below as well!
 
 
 
